@@ -1,0 +1,6 @@
+module juterc {
+  class MyDataType {
+    ustring name;
+    ustring genda;
+  }
+}
